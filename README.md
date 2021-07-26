@@ -20,6 +20,6 @@
 
 ## Observaciones
 
-- Luego de crear la base de datos correr el comando **php artisan migrate --seed** estto es apra crear las tablas necesarias para el proyecto y precargar algunos datos importantes
+- Luego de crear la base de datos correr el comando: **php artisan migrate --seed** esto es para crear las tablas necesarias para el proyecto y precargar algunos datos importantes
 - Las credenciales de administrador son **admin@admin.com** y **123456789**
 
